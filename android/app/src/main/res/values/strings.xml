@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SwiftQR Studio</string>
+    <string name="title_activity_main">SwiftQR Studio</string>
+    <string name="package_name">com.swiftqr.studio</string>
+    <string name="custom_url_scheme">com.swiftqr.studio</string>
+</resources>
